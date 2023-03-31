@@ -1,0 +1,12 @@
+| 项目简介 | 项目地址 | 项目名称 |
+| -------- | -------- | -------- |
+| 致远OA综合利用工具，支持前台RCE、后台RCE、任意文件读取等多个漏洞利用 | https://github.com/Summer177/seeyon_exp | seeyon_exp |
+| 通达OA综合利用工具，支持通达OA多个版本的命令执行、任意文件上传、任意文件读取、SQL注入等漏洞利用 | https://github.com/xinyu2428/TDOA_RCE | TDOA_RCE |
+| 蓝凌OA漏洞利用工具，支持前台无条件RCE、任意文件写入等漏洞利用 | https://github.com/yuanhaiGreg/LandrayExploit | LandrayExploit |
+| 泛微OA漏洞综合利用脚本，支持泛微OA多个版本的任意文件上传、任意文件读取、SQL注入等漏洞利用 | https://github.com/z1un/weaver_exp | weaver_exp |
+| 锐捷网络EG易网关RCE批量安全检测，支持检测锐捷EG易网关多个版本的RCE漏洞 | https://github.com/Tas9er/EgGateWayGetShell | EgGateWayGetShell |
+| CMSmap是针对流行CMS进行安全扫描的工具，支持包括WordPress、Joomla、Drupal在内的多个CMS | https://github.com/Dionach/CMSmap | CMSmap |
+| 使用Go开发的WordPress漏洞扫描工具，支持扫描WordPress多个版本的漏洞 | https://github.com/blackbinn/wprecon | wprecon |
+| 一个Ruby框架，旨在帮助对WordPress系统进行渗透测试，支持包括WordPress在内的多个CMS | https://github.com/rastating/wordpress-exploit-framework | wordpress-exploit-framework |
+| WPScan是WordPress安全扫描器，支持扫描WordPress多个版本的漏洞 | https://github.com/wpscanteam/wpscan | wpscan |
+| WPForce是WordPress攻击套件，支持密码爆破、XMLRPC漏洞利用、用户枚举、漏洞扫描等功能 | https://github.com/n00py/WPForce | WPForce |
